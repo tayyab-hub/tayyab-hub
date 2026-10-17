@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480" role="img" aria-labelledby="title desc">
   <title id="title">Muhammad Tayyab — January 2027 internships</title>
-  <desc id="desc">Software Engineering, Full-Stack Development and Cybersecurity. Diploma in Computer Science at Methodist College Kuala Lumpur. Seeking a Software Engineering or IT internship.</desc>
+  <desc id="desc">Software Engineering, Full-Stack Development and Backend Development. Diploma in Computer Science at Methodist College Kuala Lumpur. Seeking a Software Engineering or IT internship.</desc>
   <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1526"/><stop offset="1" stop-color="#142A46"/></linearGradient></defs>
   <rect width="480" height="480" rx="16" fill="url(#bg)"/>
   <g fill="none" stroke="#52749B" stroke-opacity=".16"><path d="M368 0v480M424 0v480M340 64h140M340 120h140M340 176h140M340 232h140M340 288h140M340 344h140M340 400h140"/><path d="m414 37 28 16v32l-28 16-28-16V53Z"/></g>
   <rect x="32" y="32" width="28" height="3" rx="1.5" fill="#75B9FF"/>
   <g font-family="Segoe UI, Arial, sans-serif">
     <text x="32" y="67" font-size="17" letter-spacing="2" fill="#A7BED8">SOFTWARE PORTFOLIO</text>
-    <text x="29" y="128" font-size="47" font-weight="700" letter-spacing="-1.3" fill="#F3F7FF">Muhammad Tayyab</text>
+    <text x="29" y="128" font-size="38" font-weight="700" letter-spacing="-1" fill="#F3F7FF">MUHAMMAD TAYYAB</text>
     <text x="32" y="176" font-size="25" fill="#C3D4E8">Software Engineering</text>
     <text x="32" y="211" font-size="25" fill="#C3D4E8">Full-Stack Development</text>
-    <text x="32" y="246" font-size="25" fill="#85BBF5">Cybersecurity</text>
+    <text x="32" y="246" font-size="25" fill="#85BBF5">Backend Development</text>
     <path d="M32 274h416" stroke="#385371"/>
     <text x="32" y="308" font-size="22" fill="#CBD7E5">Diploma in Computer Science</text>
     <text x="32" y="339" font-size="22" fill="#AFC3DA">Methodist College Kuala Lumpur</text>

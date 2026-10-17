@@ -1,24 +1,24 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
-  <img src="assets/hero.svg" alt="Muhammad Tayyab — Software Engineering, Full-Stack Development and Cybersecurity. Diploma in Computer Science at Methodist College Kuala Lumpur. Seeking a Software Engineering or IT internship starting January 2027." width="100%">
+  <img src="assets/hero.svg" alt="Muhammad Tayyab — Software Engineering, Full-Stack Development and Backend Development. Diploma in Computer Science at Methodist College Kuala Lumpur. Seeking a Software Engineering or IT internship starting January 2027." width="100%">
 </picture>
 
 **Available for internships from January 2027** · Kuala Lumpur, Malaysia<br>
-Software Engineering · Full-Stack · Backend · Cybersecurity · IT Development
+Software Engineering · Full-Stack Development · Backend Development
 
 [Explore projects](#featured-projects) · [Technology stack](#technology-stack) · [Contact me](#connect)
 
 ## About me
 
-I'm Muhammad Tayyab, a Diploma in Computer Science student at **Methodist College Kuala Lumpur (MCKL)**. I build practical applications across the frontend, backend and database: explainable resume analysis, offline production workflows, scam-awareness tools and academic e-commerce.
+I'm Muhammad Tayyab, a **Diploma in Computer Science student at Methodist College Kuala Lumpur (MCKL)**. I build full-stack web applications, desktop software and Android coursework apps, working across interfaces, APIs and relational databases.
 
-My engineering focus is secure application design, reliable data handling and useful tests. Each project links to implementation details and documented limitations.
+I enjoy turning practical problems into usable software—from explainable resume analysis in ResumeIQ and order preparation in SlipFlow to the SCAMGUARD team capstone and MCKL Mart coursework. My work includes automation, input validation, testing and deployment, with implementation details and limitations documented alongside the code. I'm seeking a **software engineering, full-stack or backend internship from January 2027**.
 
 ## Featured projects
 
 ### <img src="assets/projects/resumeiq.svg" width="28" height="28" alt=""> ResumeIQ
 
-**Explainable resume analysis and job matching** · Deployed portfolio demo
+**Explainable resume analysis and job matching** · Personal full-stack project · Deployed demo
 
 Comparing a resume with a job description should show the reasoning behind the result. ResumeIQ extracts text from PDFs, compares skills and presents an eight-category score with evidence and limitations.
 
@@ -40,9 +40,9 @@ Actual hosted sample using a fictional resume and job description. The score fol
 
 ### <img src="assets/projects/slipflow.svg" width="28" height="28" alt=""> SlipFlow
 
-**Offline order review and production management** · Windows release v1.0.0
+**Offline order review and production management** · Independent desktop project · Windows v1.0.0
 
-Turning marketplace exports into sewing instructions requires accurate quantities and traceable decisions. SlipFlow imports order files, maps product variants to factory SKUs, guides operator review and generates A4 tailor slips.
+Informed by my support work in family manufacturing operations, SlipFlow turns marketplace order exports into reviewed production instructions. It imports order files, maps product variants to factory SKUs, guides operator review and generates A4 tailor slips.
 
 - **Engineering:** source-line traceability, duplicate handling, controlled batch states, SQLite persistence and verified backup/restore workflows.
 - **Stack:** Electron · React · TypeScript · SQLite
@@ -62,11 +62,12 @@ Actual Electron application capture using synthetic fixtures. Live marketplace f
 
 ### <img src="assets/projects/scamguard.svg" width="28" height="28" alt=""> SCAMGUARD
 
-**Scam-awareness and analysis workspace** · Capstone in development
+**Scam-awareness and analysis workspace** · Team capstone in development
 
 Suspicious content needs context before a user acts on it. SCAMGUARD analyses messages and URL structure, explains warning signals and uncertainty, and keeps analysis history private to each account. Implemented phone and QR tools extend the same workspace.
 
 - **Engineering:** local message and URL models, explicit evidence limits, session-based ownership, CSRF protection and bounded input handling.
+- **My contribution:** frontend and backend workflows for input handling, authentication, private history and risk explanations; support for automated testing and deployment.
 - **Stack:** React · TypeScript · Python · FastAPI · PostgreSQL
 
 [Source code](https://github.com/tayyab-hub/scamguard-my) · **[Live prototype—account required](https://scamguard-my.vercel.app/)** · [Architecture](https://github.com/tayyab-hub/scamguard-my/blob/main/docs/ARCHITECTURE.md) · [Limitations](https://github.com/tayyab-hub/scamguard-my/blob/main/docs/LIMITATIONS.md)
@@ -77,7 +78,7 @@ Results are indicators, not proof of fraud or safety. This capstone is still bei
 
 ### <img src="assets/projects/mckl-mart.svg" width="28" height="28" alt=""> MCKL Mart
 
-**Academic e-commerce application** · Deployed coursework demo
+**Academic e-commerce application** · Individual Web Computing coursework · Deployed demo
 
 A convenience-store workflow from product discovery to a database-backed order. MCKL Mart implements authentication, a session cart, checkout and account-owned order history with PHP and a relational database.
 
@@ -92,7 +93,7 @@ Orders, payments and delivery are simulated. This is an independent academic pro
 
 ## Technology stack
 
-Tools used in the projects above, with the implementation available to inspect.
+Tools used in my public projects and Java/Android coursework. Public repositories link to implementation and testing evidence.
 
 <p>
   <img src="assets/tech/python.svg" width="40" height="40" alt="Python">
@@ -105,28 +106,42 @@ Tools used in the projects above, with the implementation available to inspect.
 
 | Area | Technologies and practices |
 | :--- | :--- |
-| **Languages** | Python, TypeScript, JavaScript, PHP, SQL |
+| **Languages** | Python, TypeScript, JavaScript, PHP, SQL; Java (Android coursework) |
 | **Frontend** | React, HTML, CSS, Tailwind CSS, Vite |
-| **Backend & APIs** | FastAPI, Pydantic, SQLAlchemy, PHP/PDO; Electron desktop applications |
-| **Databases** | PostgreSQL, MariaDB, SQLite; relational modelling and transactions |
+| **Backend & APIs** | REST APIs, FastAPI, Pydantic, SQLAlchemy, PHP/PDO |
+| **Databases** | PostgreSQL, MariaDB, SQLite; relational modelling, transactions and Alembic migrations |
+| **Desktop** | Electron, React, TypeScript, SQLite; Windows packaging |
+| **Mobile coursework** | Java, Android Studio / SDK, XML layouts, Activities, SharedPreferences |
 | **Tools & deployment** | Git, GitHub, GitHub Actions, Docker; Vercel, Render, Neon |
-| **Security & testing** | Session ownership, input validation, CSRF controls; pytest, Vitest, Playwright |
+| **Testing & reliability** | pytest, Vitest, Playwright, integration tests; JUnit and Android instrumented tests (coursework) |
 
-## Currently working on
-
-Continuing development of **SCAMGUARD**, my capstone project. I'm building my understanding of secure backend systems, software architecture, testing and cybersecurity through practical application work.
-
-## Education
+## Education and recognition
 
 **Diploma in Computer Science**<br>
-Methodist College Kuala Lumpur (MCKL), Malaysia
+Methodist College Kuala Lumpur (MCKL), Malaysia · **2025–Present**<br>
+**Dean's List — two recognitions**
 
-Academic work includes the SCAMGUARD capstone and MCKL Mart Web Computing project.
+Academic development includes the **SCAMGUARD team capstone**, individual **MCKL Mart** Web Computing coursework, and **MoneyPersona**, a Java-based Android coursework app using XML interfaces, local persistence with SharedPreferences, validation, unit tests and instrumented Android tests.
+
+<details>
+<summary>Selected learning and course certificates</summary>
+
+- Google — **[Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/29AJI6MDE1O9)** · Individual course, 2026.
+- Google — **[Foundations of Data Science](https://www.coursera.org/account/accomplishments/verify/9SXNIF6M0USW)** · Individual course, 2026.
+- **AWS Academy Cloud Foundations** · Training completion, 2026.
+
+The Google credentials are individual courses within the Data Analytics and Advanced Data Analytics pathways. AWS Academy training is a course completion, not a professional AWS certification.
+
+</details>
+
+## Currently developing
+
+Continuing **SCAMGUARD with my capstone team** while strengthening my understanding of backend system design, database-backed applications, API development, automated testing and reliable deployment.
 
 ## Connect
 
-I'm seeking a **Software Engineering, Full-Stack, Backend, Cybersecurity or IT Development internship starting January 2027**.
+I'm seeking a **Software Engineering, Full-Stack, Backend or IT Development internship starting January 2027**.
 
-**[Email Muhammad Tayyab](mailto:tayyabofficial0978@gmail.com)** · [GitHub](https://github.com/tayyab-hub)
+**[Email Muhammad Tayyab](mailto:tayyabofficial0978@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/tayyab-muhammad-tayyab-969a69351/) · [GitHub](https://github.com/tayyab-hub)
 
 <sub>Project links lead to the source, architecture and testing notes. GitHub's native contribution activity is available below this profile.</sub>
