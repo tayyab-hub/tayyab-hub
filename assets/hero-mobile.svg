@@ -1,20 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480" role="img" aria-labelledby="title desc">
-  <title id="title">Muhammad Tayyab — January 2027 internships</title>
-  <desc id="desc">Software Engineering, Full-Stack Development and Backend Development. Diploma in Computer Science at Methodist College Kuala Lumpur. Seeking a Software Engineering or IT internship.</desc>
-  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1526"/><stop offset="1" stop-color="#142A46"/></linearGradient></defs>
-  <rect width="480" height="480" rx="16" fill="url(#bg)"/>
-  <g fill="none" stroke="#52749B" stroke-opacity=".16"><path d="M368 0v480M424 0v480M340 64h140M340 120h140M340 176h140M340 232h140M340 288h140M340 344h140M340 400h140"/><path d="m414 37 28 16v32l-28 16-28-16V53Z"/></g>
-  <rect x="32" y="32" width="28" height="3" rx="1.5" fill="#75B9FF"/>
-  <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="32" y="67" font-size="17" letter-spacing="2" fill="#A7BED8">SOFTWARE PORTFOLIO</text>
-    <text x="29" y="128" font-size="38" font-weight="700" letter-spacing="-1" fill="#F3F7FF">MUHAMMAD TAYYAB</text>
-    <text x="32" y="176" font-size="25" fill="#C3D4E8">Software Engineering</text>
-    <text x="32" y="211" font-size="25" fill="#C3D4E8">Full-Stack Development</text>
-    <text x="32" y="246" font-size="25" fill="#85BBF5">Backend Development</text>
-    <path d="M32 274h416" stroke="#385371"/>
-    <text x="32" y="308" font-size="22" fill="#CBD7E5">Diploma in Computer Science</text>
-    <text x="32" y="339" font-size="22" fill="#AFC3DA">Methodist College Kuala Lumpur</text>
-    <text x="32" y="391" font-size="21" fill="#D6E8FF">Seeking Software Engineering / IT</text>
-    <text x="32" y="429" font-size="27" font-weight="600" fill="#D6E8FF">Internship · January 2027</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="440" viewBox="0 0 640 440" role="img" aria-labelledby="t d">
+  <title id="t">Muhammad Tayyab — Software Engineer, Full-Stack and Backend</title>
+  <desc id="d">Computer Science student at Methodist College Kuala Lumpur. Open to software engineering internships from January 2027.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1220"/><stop offset="1" stop-color="#12284A"/></linearGradient>
+    <radialGradient id="glow" cx=".9" cy=".1" r=".7"><stop stop-color="#2F81F7" stop-opacity=".3"/><stop offset="1" stop-color="#2F81F7" stop-opacity="0"/></radialGradient>
+    <linearGradient id="accent" x2="1"><stop stop-color="#58A6FF"/><stop offset="1" stop-color="#3FB950"/></linearGradient>
+  </defs>
+  <rect width="640" height="440" rx="20" fill="url(#bg)"/>
+  <rect width="640" height="440" rx="20" fill="url(#glow)"/>
+  <rect x="0" y="436" width="640" height="4" fill="url(#accent)"/>
+  <g font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif">
+    <rect x="44" y="52" width="30" height="4" rx="2" fill="url(#accent)"/>
+    <text x="86" y="59" font-size="17" letter-spacing="2.5" fill="#8FA9C8" font-weight="600">SOFTWARE ENGINEER</text>
+    <text x="42" y="132" font-size="54" font-weight="700" letter-spacing="-1" fill="#F0F6FF">Muhammad</text>
+    <text x="42" y="190" font-size="54" font-weight="700" letter-spacing="-1" fill="#F0F6FF">Tayyab</text>
+    <text x="44" y="240" font-size="25" fill="#C3D3E8">Full-Stack &amp; Backend Development</text>
+    <text x="44" y="278" font-size="20" fill="#7F98B8">CS Diploma · MCKL · Dean's List ×2</text>
+    <rect x="44" y="318" width="396" height="50" rx="25" fill="#0F2E24" stroke="#2EA043"/>
+    <circle cx="72" cy="343" r="7" fill="#3FB950"/>
+    <text x="90" y="350" font-size="21" font-weight="600" fill="#7EE787">Open to internships · Jan 2027</text>
+    <text x="44" y="405" font-size="19" fill="#7F98B8">Kuala Lumpur, Malaysia</text>
   </g>
 </svg>

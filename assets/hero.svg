@@ -1,29 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
-  <title id="title">Muhammad Tayyab — Software Engineering Portfolio</title>
-  <desc id="desc">Software Engineering, Full-Stack Development and Backend Development. Diploma in Computer Science at Methodist College Kuala Lumpur. Seeking a Software Engineering or IT internship from January 2027.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="t d">
+  <title id="t">Muhammad Tayyab — Software Engineer, Full-Stack and Backend</title>
+  <desc id="d">Computer Science student at Methodist College Kuala Lumpur, building full-stack web apps, APIs and desktop tools. Open to software engineering internships from January 2027.</desc>
   <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1526"/><stop offset="1" stop-color="#142A46"/></linearGradient>
-    <linearGradient id="edge"><stop stop-color="#75B9FF"/><stop offset="1" stop-color="#387AE0"/></linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1220"/><stop offset=".6" stop-color="#0E1B30"/><stop offset="1" stop-color="#12284A"/></linearGradient>
+    <radialGradient id="glow" cx=".82" cy=".2" r=".6"><stop stop-color="#2F81F7" stop-opacity=".28"/><stop offset="1" stop-color="#2F81F7" stop-opacity="0"/></radialGradient>
+    <linearGradient id="accent" x2="1"><stop stop-color="#58A6FF"/><stop offset="1" stop-color="#3FB950"/></linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#3B5A85" fill-opacity=".35"/></pattern>
   </defs>
-  <rect width="960" height="360" rx="18" fill="url(#bg)"/>
-  <g fill="none" stroke="#52749B" stroke-opacity=".18">
-    <path d="M720 0v360M780 0v360M840 0v360M900 0v360M700 60h260M700 120h260M700 180h260M700 240h260M700 300h260"/>
-    <path d="m790 78 105 60v120l-105 60-105-60V138Z"/>
-    <path d="m790 110 77 44v88l-77 44-77-44v-88Z"/>
+  <rect width="1280" height="400" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="400" rx="20" fill="url(#glow)"/>
+  <rect x="700" y="0" width="580" height="400" fill="url(#dots)" opacity=".7"/>
+  <rect x="0" y="396" width="1280" height="4" fill="url(#accent)"/>
+  <g font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif">
+    <rect x="64" y="64" width="36" height="4" rx="2" fill="url(#accent)"/>
+    <text x="114" y="71" font-size="15" letter-spacing="3" fill="#8FA9C8" font-weight="600">SOFTWARE ENGINEER · FULL-STACK &amp; BACKEND</text>
+    <text x="62" y="148" font-size="64" font-weight="700" letter-spacing="-1.5" fill="#F0F6FF">Muhammad Tayyab</text>
+    <text x="64" y="200" font-size="23" fill="#C3D3E8">I build full-stack web apps, REST APIs and desktop tools,</text>
+    <text x="64" y="232" font-size="23" fill="#C3D3E8">and ship them with tests, docs and stated limits.</text>
+    <text x="64" y="282" font-size="17" fill="#7F98B8">Diploma in Computer Science · Methodist College Kuala Lumpur · CGPA 3.49</text>
+    <rect x="64" y="318" width="317" height="36" rx="18" fill="#0F2E24" stroke="#2EA043"/><circle cx="83" cy="336" r="5" fill="#3FB950"/><text x="95" y="341.5" font-size="16" fill="#7EE787" font-weight="600">Open to internships · Jan 2027</text><rect x="392.8" y="318" width="227" height="36" rx="18" fill="#14233A" stroke="#2B4366"/><text x="407.8" y="341.5" font-size="16" fill="#B9CBE2" font-weight="400">Kuala Lumpur, Malaysia</text>
   </g>
-  <path d="m776 136 55 31-55 31-55-31Z" fill="#1D3C60" stroke="#4C82B5"/>
-  <path d="m721 187 55 31 55-31M721 207l55 31 55-31" fill="none" stroke="#75B9FF" stroke-width="2"/>
-  <circle cx="831" cy="207" r="4" fill="#92C8FF"/>
-  <path d="M831 211v41h61" fill="none" stroke="#4C82B5"/>
-  <rect x="48" y="40" width="32" height="3" rx="1.5" fill="url(#edge)"/>
-  <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="94" y="47" font-size="16" letter-spacing="2.2" fill="#A7BED8">SOFTWARE ENGINEERING PORTFOLIO</text>
-    <text x="46" y="119" font-size="48" font-weight="700" letter-spacing="-1" fill="#F3F7FF">MUHAMMAD TAYYAB</text>
-    <text x="48" y="161" font-size="22" fill="#C3D4E8">Software Engineering | Full-Stack Development</text>
-    <text x="48" y="192" font-size="22" fill="#85BBF5">Backend Development</text>
-    <path d="M48 219h590" stroke="#385371"/>
-    <text x="48" y="251" font-size="20" fill="#CBD7E5">Diploma in Computer Science</text>
-    <text x="48" y="278" font-size="20" fill="#AFC3DA">Methodist College Kuala Lumpur</text>
-    <text x="48" y="326" font-size="20" font-weight="600" fill="#D6E8FF">Seeking Software Engineering / IT Internship · January 2027</text>
+  <g>
+    <rect x="752" y="72" width="468" height="290" rx="14" fill="#0D1117" fill-opacity=".92" stroke="#30363D"/>
+    <path d="M752 86a14 14 0 0 1 14-14h440a14 14 0 0 1 14 14v22H752Z" fill="#161B22"/>
+    <circle cx="776" cy="90" r="6" fill="#FF5F57"/><circle cx="796" cy="90" r="6" fill="#FEBC2E"/><circle cx="816" cy="90" r="6" fill="#28C840"/>
+    <text x="986" y="95" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="13" fill="#8B949E" text-anchor="middle">profile.ts</text>
+    <g font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="16"><text x="782" y="150" xml:space="preserve"><tspan fill="#FF7B72">const </tspan><tspan fill="#D2A8FF">engineer</tspan><tspan fill="#C9D1D9"> = {</tspan></text><text x="782" y="177" xml:space="preserve"><tspan fill="#79C0FF">  name: </tspan><tspan fill="#A5D6FF">"Muhammad Tayyab"</tspan><tspan fill="#C9D1D9">,</tspan></text><text x="782" y="204" xml:space="preserve"><tspan fill="#79C0FF">  focus: </tspan><tspan fill="#A5D6FF">["backend", "full-stack"]</tspan><tspan fill="#C9D1D9">,</tspan></text><text x="782" y="231" xml:space="preserve"><tspan fill="#79C0FF">  stack: </tspan><tspan fill="#A5D6FF">["Python", "FastAPI",</tspan></text><text x="782" y="258" xml:space="preserve"><tspan fill="#C9D1D9">          </tspan><tspan fill="#A5D6FF">"React", "TypeScript"]</tspan><tspan fill="#C9D1D9">,</tspan></text><text x="782" y="285" xml:space="preserve"><tspan fill="#79C0FF">  shipped: </tspan><tspan fill="#FFA657">4</tspan><tspan fill="#C9D1D9">,  </tspan><tspan fill="#8B949E">// live + tested</tspan></text><text x="782" y="312" xml:space="preserve"><tspan fill="#79C0FF">  available: </tspan><tspan fill="#7EE787">"Jan 2027"</tspan><tspan fill="#C9D1D9">,</tspan></text><text x="782" y="339" xml:space="preserve"><tspan fill="#C9D1D9">};</tspan></text></g>
   </g>
 </svg>
