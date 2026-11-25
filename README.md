@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tayyab-hub"><img src="https://img.shields.io/badge/LinkedIn-tayyab--hub-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:tayyabofficial0978@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:tayyabofficial0976@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-4_shipped-238636?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
   <img src="https://img.shields.io/badge/Open_to-Internships_·_Jan_2027-1F6FEB?style=for-the-badge" alt="Open to internships from January 2027">
 </p>
@@ -155,5 +155,5 @@ I'm open to **Software Engineering, Full-Stack, Backend or IT Development intern
 
 <p>
   <a href="https://www.linkedin.com/in/tayyab-hub"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-  <a href="mailto:tayyabofficial0978@gmail.com"><img src="https://img.shields.io/badge/Email-tayyabofficial0978%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email tayyabofficial0978@gmail.com"></a>
+  <a href="mailto:tayyabofficial0976@gmail.com"><img src="https://img.shields.io/badge/Email-tayyabofficial0976%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email tayyabofficial0976@gmail.com"></a>
 </p>
